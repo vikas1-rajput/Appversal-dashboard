@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.*
+
+# Build output
+dist/
+build/
+out/
+coverage/
+
+# VS Code
+.vscode/
+.history/
+
+# Misc
+*.swp
+*.swo
+.idea/
+*.iml
+
+# Optional: OS generated

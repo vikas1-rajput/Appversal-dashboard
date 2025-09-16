@@ -28,7 +28,7 @@ export function StorefrontsSection() {
       <div className="relative h-64 bg-orange-50 rounded-lg overflow-hidden mb-4 flex flex-col items-center justify-center">
         {/* World map image, no absolute positioning, no overlap */}
         <img 
-          src="/img.png" 
+          src="https://user-gen-media-assets.s3.amazonaws.com/gemini_images/34f0f62f-d97a-4c77-a9a9-7151a61786ae.png" 
           alt="World Map" 
           className="max-h-48 w-auto object-contain mx-auto my-4" 
           style={{ filter: 'brightness(0.95)' }}
